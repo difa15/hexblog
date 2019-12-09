@@ -1,0 +1,38 @@
+{
+  "name": "Hexbloggerz",
+  "short_name": "Hexbloggerz",
+  "start_url": "https://www.hexbloggerz.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Sharing Ilmu Tentang Teknologi",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-TOPEIPa9o6s/Xe3E8jBZA-I/AAAAAAAAGR0/CZSXV3Oest4_9WJaFo-n7IKv7GdEwjDWQCNcBGAsYHQ/s1600/48%2BHB.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FrPgjk8_CVE/Xe3E9HcESgI/AAAAAAAAGR8/AMa0_eUlvI0bR98d6l2zvREJ3FzX6lkxQCNcBGAsYHQ/s1600/72%2BHB.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-L025_8GOuP0/Xe3E9bWZ5UI/AAAAAAAAGSA/tj44TFo34Ropiqb6ODAiJusKGnm-90R8gCNcBGAsYHQ/s1600/96%2BHB.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-B6a7t6hl4yo/Xe3E7rsv_vI/AAAAAAAAGRs/R3xZPnllh8E7oJnf4e7FoeK6mwiByEmKACNcBGAsYHQ/s1600/144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-pJ5XKz1wsMk/Xe3E70sCs9I/AAAAAAAAGRw/h-KoziX5ujcUkkoNFLKnZQPaxT5HBCspgCNcBGAsYHQ/s1600/168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tkS_J55TwFI/Xe3E7qrT6sI/AAAAAAAAGRo/eSIuFpfE52MXSGoXla2XeQs_ZNd7HrmcwCNcBGAsYHQ/s1600/192%2BHB.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tmHrQi0UM4w/Xe3E8j_pEaI/AAAAAAAAGR4/FgROpfETScM2QOrXio5yAckF7Otd8T2_ACNcBGAsYHQ/s1600/512%2BHB.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
